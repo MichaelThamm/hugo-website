@@ -5,14 +5,11 @@ baseURL: "https://venetian-plaster.com/"
 copyright: "© Heike Thamm"
 languageCode: "en-us"
 defaultContentLanguage: "en"
-# disableKinds:
-  # - "taxonomy"
-# enableRobotsTXT: true
 timeZone: "America/Toronto"
 timeout: "120s"
 
 params:
-  defaultTheme: dark
+  defaultTheme: dark  # or light
   title: "Venetian Plaster"
   description: "Gallery for my plaster work"
   contact:
@@ -26,25 +23,25 @@ params:
     youtube: "https://www.youtube.com/"
     linkedin: "https://linkedin.com/"
 
-menus:
-  main:
-  - name: Home
-    pageRef: /
-    weight: 10
+# menus:
+#   main:
+#   - name: Home
+#     pageRef: /
+#     weight: 10
 
-  - name: About
-    pageRef: /about
-    weight: 20
-  - name: Contact
-    pageRef: /contact
-    weight: 20
+#   - name: About
+#     pageRef: /about
+#     weight: 20
+#   - name: Contact
+#     pageRef: /contact
+#     weight: 20
 
-  - name: Products
-    pageRef: /products
-    weight: 30
-  - name: Services
-    pageRef: /services
-    weight: 30
+#   - name: Products
+#     pageRef: /products
+#     weight: 30
+#   - name: Services
+#     pageRef: /services
+#     weight: 30
 
   footer:
   - name: Contact
