@@ -21,6 +21,7 @@ jobs:
         uses: srt32/hugo-action@master
         with:
           args: '--theme=gallery'
+          hugo-version: 'latest' 
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

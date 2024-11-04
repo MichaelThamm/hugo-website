@@ -3,9 +3,6 @@ title: "Venetian Plaster"
 
 baseURL: "https://venetian-plaster.com/"
 copyright: "© Heike Thamm"
-languageCode: "en-us"
-defaultContentLanguage: "en"
-timeZone: "America/Toronto"
 timeout: "120s"
 
 params:
