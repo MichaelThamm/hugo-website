@@ -1,0 +1,29 @@
+name: Hugo Build
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Fetch theme submodules
+        uses: srt32/git-actions@master
+        with:
+          args: 'cd themes && git clone https://github.com/nicokaiser/hugo-theme-gallery'
+
+      - name: Hugo Build
+        uses: srt32/hugo-action@master
+        with:
+          args: '--theme=gallery'
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
