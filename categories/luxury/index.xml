@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luxury on Venetian Plaster</title>
+    <link>https://venetian-plaster.com/categories/luxury/</link>
+    <description>Recent content in Luxury on Venetian Plaster</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© Heike Thamm</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://venetian-plaster.com/categories/luxury/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mono-colour</title>
+      <link>https://venetian-plaster.com/samples/mono-colour/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://venetian-plaster.com/samples/mono-colour/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
