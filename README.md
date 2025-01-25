@@ -5,3 +5,6 @@
 
 # Commands
 - `hugo serve --bind "0.0.0.0"`
+
+# Custom domain
+- [youtube-cloudflare](https://www.youtube.com/watch?v=qOfG_Anaj2M)
