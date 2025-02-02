@@ -1,8 +1,9 @@
 ---
 date: 2023-01-12
-featured_image: dark-decorative-vintage.jpg
+featured_image: 2-dark-decorative-vintage.jpg
 title: Featured Album
 featured: true
-private: true # do not show in list, only as feature
-description: This is a featured album. It is private, so it is only shown on the homepage.
+private: true # do not show in list. This is a featured album (private) only shown on the homepage.
+description: "My personal favourites which inspire me to continue my work!"
+sort_by: Name
 ---
