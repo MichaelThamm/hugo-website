@@ -6,7 +6,7 @@ rss_ignore: true
 description: "What can we do for you?"
 menu:
   main:
-    weight: 90
+    weight: 20
 ---
 
 ### Our products

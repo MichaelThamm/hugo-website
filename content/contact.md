@@ -6,12 +6,15 @@ description: "Are you ready to transform your space into a masterpiece with the 
 
 menu:
   main:
-    weight: 90
+    weight: 30
+
+# Using tables: https://github.github.com/gfm/#tables-extension-
 ---
+
 
 ### Meet the team
 
-| Role            | Name          |                                 |
-|-----------------|---------------|---------------------------------|
-| Interior Design | Heike Thamm   | ![Heike Thamm](/heike-headshot.png)   |
-| IT              | Michael Thamm | ![Michael Thamm](/headshot.png) |
+| Name          | Role            |                                     |
+|:-             | :-:             |-:                                  |
+| Heike Thamm   | Interior Design | ![Heike Thamm](/heike-headshot.png) |
+| Michael Thamm | Infrastructure  | ![Michael Thamm](/headshot.png)     |

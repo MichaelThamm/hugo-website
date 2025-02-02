@@ -6,7 +6,7 @@ rss_ignore: true
 description: "What is Venetian plaster?"
 menu:
   main:
-    weight: 90
+    weight: 30
 ---
 
 ### Ingredients
@@ -20,7 +20,8 @@ It is also known as marble plaster, Italian plaster or polished plaster.
 
 ### Uses
 
-Use these samples as inspiration: {{ .Site.BaseURL }}/samples/
+Use these samples as inspiration: To link to a static resource, you can use these: [samples](../samples)
+
 - Interior and exterior decoration
 - Create a marble-like finish
 - Replicate ancient patinas or create contemporary looks

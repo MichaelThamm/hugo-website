@@ -11,6 +11,6 @@ resources:
     title: This was my first big project in 2007!
   - src: stair-way.png
     title: Entrance way in a ranch-style home.
-weight: 1
+weight: 2
 menus: "main"
 ---
