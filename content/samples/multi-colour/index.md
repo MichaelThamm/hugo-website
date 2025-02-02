@@ -1,7 +1,10 @@
 ---
-date: 2023-01-12
+date: 2025-02-02
 featured_image: nail-polish-texture.jpg
 title: multi-colour
-categories: ["animals", "nature"]
+categories: ["sample", "inspiration"]
 #type: gallery
+sort_by: Name
+params:
+  theme: light
 ---
