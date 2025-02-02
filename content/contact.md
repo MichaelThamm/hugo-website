@@ -13,5 +13,5 @@ menu:
 
 | Role                                | Name              |
 |-------------------------------------|-------------------|
-| Interior Design | ![Heike Thamm](/images/headshot.png) Heike Thamm |
-| IT              | ![Michael Thamm](/images/headshot.png) Michael Thamm |
+| Interior Design | ![Heike Thamm](/headshot.png) Heike Thamm |
+| IT              | ![Michael Thamm](/headshot.png) Michael Thamm |
