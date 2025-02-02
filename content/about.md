@@ -3,17 +3,47 @@ title: About
 layout: page
 rss_ignore: true
 
-description: "Transform your space into a masterpiece with the luxurious allure of Venetian plaster! A timeless finish not only adds depth and elegance to your walls but also serves as a durable, breathable solution for any interior, enhancing both beauty and ambiance."
+description: ""
 menu:
   main:
     weight: 90
 ---
 
-Ideal for homeowners, designers, and anyone looking to elevate their environment, Venetian plaster is the perfect choice for creating a sophisticated backdrop in living rooms, dining areas, and even commercial spaces. Experience the captivating texture and vibrant colors that only Venetian plaster can offer, and let your walls tell a story of artistry and refinement!
+## What is Venetian plaster?
 
-# Meet the team
+### Ingredients
 
-| Role                                | Name              |
-|-------------------------------------|-------------------|
-| Interior Design | ![Heike Thamm](headshot.png) Heike Thamm |
-| IT                      | ![Michael Thamm](headshot.png) Michael Thamm |
+Venetian plaster is a decorating coating made from lime stone, powdered marble, and water.
+It is also known as marble plaster, Italian plaster or polished plaster.
+
+### Application
+- Applied in multiple layers using a trowel
+- The plaster is polished to create a high gloss, shine when burnished, or a matte finish
+
+### Uses
+
+Use these samples as inspiration: {{ .Site.BaseURL }}/samples/
+- Interior and exterior decoration
+- Create a marble-like finish
+- Replicate ancient patinas or create contemporary looks
+- Applicable for walls, ceilings, fire places and any other surfaces
+
+### Benefits
+- Durable and resistant to wear
+- Hypoallergenic and resistant to mold and algae
+- Non VOC link 1 ???  # TODO fix this
+- Regulates humidity
+- Breathable
+- Absorbs bad odors (i.e. cigarette smoke)
+- Color resistant  # TODO What does this mean?
+- More durable than any plaster
+- Resistant to stains and scratches
+- Insulate your home
+
+## History
+
+While this plaster is called “Venetian,” it has a much more ancient history, predating the
+city of Venice by thousands of years. Experts believe that Venetian plaster dates back to
+9,000 years ago in Mesopotamia.
+
+_Are you eager to learn more?_ [Ask wikipedia](https://en.wikipedia.org/wiki/Polished_plaster)

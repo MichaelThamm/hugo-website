@@ -2,11 +2,16 @@
 title: Contact
 layout: page
 rss_ignore: true
-description: Please reach out if you have questions
+description: "Are you ready to transform your space into a masterpiece with the luxurious allure of Venetian plaster? Please reach out to us to make your vision reality."
 
 menu:
   main:
     weight: 90
 ---
 
-More contact info ...
+# Meet the team
+
+| Role                                | Name              |
+|-------------------------------------|-------------------|
+| Interior Design | ![Heike Thamm](./headshot.png) Heike Thamm |
+| IT                      | ![Michael Thamm](./headshot.png) Michael Thamm |
