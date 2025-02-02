@@ -1,9 +1,7 @@
 ---
 description: Need some inspiration or are you looking to mix and match some colours with textures?
-# featured_image: multi-colour/nail-polish-texture.jpg
-keywords: [Plaster, Photos, Rough]
 title: Samples
-weight: 1
+weight: 2
 menus: "main"
 # list pages require at least one image to be displayed.
 resources:

@@ -4,7 +4,7 @@ featured_image: heike-combined-spanish-red-living-room.png
 title: Success stories
 #type: gallery
 sort_by: Name
-categories: ["success-stories", "projects", "home"]
+categories: ["projects"]
 keywords: [Wall, Venetian, Plaster, Art]
 resources:
   - src: heike-combined-spanish-red-living-room.png
