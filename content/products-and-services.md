@@ -1,9 +1,9 @@
 ---
-title: About
+title: Products and Services
 layout: page
 rss_ignore: true
 
-description: ""
+description: "What can we do for you?"
 menu:
   main:
     weight: 90

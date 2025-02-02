@@ -3,13 +3,11 @@ title: About
 layout: page
 rss_ignore: true
 
-description: ""
+description: "What is Venetian plaster?"
 menu:
   main:
     weight: 90
 ---
-
-## What is Venetian plaster?
 
 ### Ingredients
 

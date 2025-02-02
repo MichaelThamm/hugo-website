@@ -11,7 +11,10 @@ menu:
 
 # Meet the team
 
+![Heike Thamm](./headshot.png)
+![Heike Thamm](/content/headshot.png)
+![Heike Thamm](headshot.png)
 | Role                                | Name              |
 |-------------------------------------|-------------------|
-| Interior Design | ![Heike Thamm](./headshot.png) Heike Thamm |
+| Interior Design |  Heike Thamm |
 | IT                      | ![Michael Thamm](./headshot.png) Michael Thamm |
