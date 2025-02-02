@@ -5,9 +5,12 @@ title: Success stories
 #type: gallery
 sort_by: Name
 categories: ["success-stories", "projects", "home"]
+keywords: [Wall, Venetian, Plaster, Art]
 resources:
   - src: heike-combined-spanish-red-living-room.png
     title: This was my first big project in 2007!
   - src: stair-way.png
     title: Entrance way in a ranch-style home.
+weight: 1
+menus: "main"
 ---

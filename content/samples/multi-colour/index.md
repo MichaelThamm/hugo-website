@@ -1,6 +1,6 @@
 ---
 date: 2025-02-02
-featured_image: nail-polish-texture.jpg
+featured_image: wall-plaster.png
 title: multi-colour
 categories: ["sample", "inspiration"]
 #type: gallery
