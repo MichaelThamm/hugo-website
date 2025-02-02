@@ -7,7 +7,7 @@ weight: 1
 menus: "main"
 # list pages require at least one image to be displayed.
 resources:
-  - src: custom/gold-w-brown-on-blue.jpg
+  - src: gold-w-brown-on-blue.jpg
     params:
       cover: true
 ---
