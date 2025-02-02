@@ -38,7 +38,7 @@ Use these samples as inspiration: {{ .Site.BaseURL }}/samples/
 - Resistant to stains and scratches
 - Insulate your home
 
-## History
+### History
 
 While this plaster is called “Venetian,” it has a much more ancient history, predating the
 city of Venice by thousands of years. Experts believe that Venetian plaster dates back to

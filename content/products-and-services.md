@@ -9,12 +9,12 @@ menu:
     weight: 90
 ---
 
-## Our products
+### Our products
 
 The products we use are natural and authentic products ordered from [vasariplaster.com](https://vasariplaster.com/). Other cheaper suppliers may use plasters and paints with synthetic filler, but not us! We use natural, non fading,
 pigments for coloring, and welcome using your choice of acrylic paint color.
 
-# Our services
+### Our services
 
 __Cost__: $5 to $30 per square foot.
 
