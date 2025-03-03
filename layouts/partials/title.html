@@ -1,0 +1,17 @@
+{{ if .IsHome }}
+  <hgroup>
+    <img src='{{ "logo.jpg" | relURL }}' alt="Site Logo" class="site-logo">
+    {{ with .Params.Description }}
+      <p>{{ . | markdownify }}</p>
+    {{ end }}
+  </hgroup>
+{{ else }}
+  {{ if .Title }}
+    <hgroup>
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.Description }}
+        <p>{{ . | markdownify }}</p>
+      {{ end }}
+    </hgroup>
+  {{ end }}
+{{ end }}
