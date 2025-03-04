@@ -6,7 +6,8 @@ resources:
   - src: thumbnail.png
     params:
       cover: true # cover of the home page is used for OpenGraph cards, etc.
-# featured_image on the home page is used for OpenGraph cards, etc.
+params:
+  theme: light
 menus:
   main:
     name: Home
