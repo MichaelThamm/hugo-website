@@ -1,5 +1,4 @@
 theme: "gallery"
-title: "Venetian Plaster"
 
 baseURL: "https://windsorvenetianplaster.com/"
 copyright: "© Heike Thamm"
@@ -18,6 +17,8 @@ params:
     instagram: "https://www.instagram.com/"
     youtube: "https://www.youtube.com/"
     linkedin: "https://linkedin.com/"
+  custom_css:
+  - css/custom.css
 
 # menus:
 #   main:
