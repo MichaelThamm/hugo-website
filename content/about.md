@@ -30,11 +30,10 @@ Use these samples as inspiration: To link to a static resource, you can use thes
 ### Benefits
 - Durable and resistant to wear
 - Hypoallergenic and resistant to mold and algae
-- Non VOC link 1 ???  # TODO fix this
 - Regulates humidity
 - Breathable
-- Absorbs bad odors (i.e. cigarette smoke)
-- Color resistant  # TODO What does this mean?
+- Absorbs bad odors (e.g. cigarette smoke)
+- Resistant to fading (i.e. photodegradation)
 - More durable than any plaster
 - Resistant to stains and scratches
 - Insulate your home
