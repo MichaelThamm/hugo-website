@@ -1,15 +1,5 @@
 .site-logo {
-  width: 50vw;
-  /* % of viewport width */
-  /* max-width: 300px; */
-  height: auto;
-  /* Maintain aspect ratio */
-  border-radius: 15px;
-  /* Rounded corners */
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  /* Faded border */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  /* Soft shadow */
-  display: block;
-  margin: 0 auto;
+  border-radius: 16px;
+  /* border: 1px solid rgba(0, 0, 0, 0.1); */
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); */
 }
