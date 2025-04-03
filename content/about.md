@@ -45,3 +45,5 @@ city of Venice by thousands of years. Experts believe that Venetian plaster date
 9,000 years ago in Mesopotamia.
 
 _Are you eager to learn more?_ [Ask wikipedia](https://en.wikipedia.org/wiki/Polished_plaster)
+
+![Green Logo](/non-toxic-w-bg.png)
